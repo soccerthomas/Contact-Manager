@@ -1,2 +1,2 @@
-# COP4331-ContactManager
-A simple contact manager called Dex. Use Dex to create an account, log in, and start managing your contacts!
+# Contact-Manager
+Full-stack contact manager with authentication, REST API, and MySQL database, supporting secure CRUD operations and efficient contact management.
